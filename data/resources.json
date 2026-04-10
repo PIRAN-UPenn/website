@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Club Constitution",
+    "description": "Official governing document of PIRAN.",
+    "url": "assets/pdfs/constitution.pdf",
+    "category": "Governance"
+  },
+  {
+    "title": "PennClubs Listing",
+    "description": "Official student organization listing at the University of Pennsylvania.",
+    "url": "https://pennclubs.com",
+    "category": "Campus"
+  },
+  {
+    "title": "Telegram Community",
+    "description": "Join live updates and announcements from PIRAN.",
+    "url": "https://t.me/",
+    "category": "Social"
+  },
+  {
+    "title": "Instagram",
+    "description": "Follow event highlights and visual updates.",
+    "url": "https://instagram.com/",
+    "category": "Social"
+  }
+]

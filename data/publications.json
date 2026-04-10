@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Spring Programming Announcement",
+    "type": "Announcement",
+    "date": "2026-04-01",
+    "description": "Overview of workshops, guest speakers, and cultural events for the semester.",
+    "url": "#"
+  },
+  {
+    "title": "Community Values Statement",
+    "type": "Statement",
+    "date": "2026-02-10",
+    "description": "A statement on inclusion, dialogue, and respect across our student community.",
+    "url": "#"
+  },
+  {
+    "title": "Nowruz Event Poster",
+    "type": "Poster",
+    "date": "2026-03-01",
+    "description": "Promotional poster for PIRAN's annual Nowruz celebration.",
+    "url": "#"
+  }
+]

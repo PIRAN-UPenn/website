@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Graduate Pathways Panel",
+    "date": "2026-04-18",
+    "location": "Huntsman Hall",
+    "description": "Penn alumni discuss graduate school options and research careers.",
+    "status": "upcoming"
+  },
+  {
+    "title": "Persian Poetry Night",
+    "date": "2026-05-02",
+    "location": "Kelly Writers House",
+    "description": "Reading circle and student-led conversation on Persian literature.",
+    "status": "upcoming"
+  },
+  {
+    "title": "Welcome Mixer",
+    "date": "2026-09-06",
+    "location": "College Green",
+    "description": "Meet new members and learn about PIRAN's yearly programming.",
+    "status": "upcoming"
+  },
+  {
+    "title": "Nowruz Celebration",
+    "date": "2026-03-20",
+    "location": "Houston Hall",
+    "description": "Community gathering and cultural celebration for the Persian new year.",
+    "status": "past"
+  }
+]

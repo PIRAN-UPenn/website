@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Board Meeting",
+    "date": "2026-04-15",
+    "time": "6:00 PM",
+    "location": "McNeil Building"
+  },
+  {
+    "title": "Open Member Check-in",
+    "date": "2026-04-22",
+    "time": "7:00 PM",
+    "location": "Perelman Center"
+  },
+  {
+    "title": "Public Lecture: Iranian Diaspora",
+    "date": "2026-04-29",
+    "time": "5:30 PM",
+    "location": "Fisher-Bennett Hall"
+  },
+  {
+    "title": "End-of-Semester Reflection",
+    "date": "2026-05-01",
+    "time": "5:30 PM",
+    "location": "Van Pelt Library"
+  }
+]

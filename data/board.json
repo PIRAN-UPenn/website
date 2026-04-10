@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Arman Farhadi",
+    "role": "President",
+    "group": "Executive Board",
+    "bio": "Senior in Economics focused on community leadership and student mentorship.",
+    "image": "assets/images/mini-logo.png"
+  },
+  {
+    "name": "Niloofar Rahimi",
+    "role": "Vice President",
+    "group": "Executive Board",
+    "bio": "Leads partnerships and supports planning across cultural and academic events.",
+    "image": "assets/images/mini-logo.png"
+  },
+  {
+    "name": "Sara Ahmadi",
+    "role": "Treasurer",
+    "group": "Executive Board",
+    "bio": "Oversees budgeting and funding logistics for annual programming.",
+    "image": "assets/images/mini-logo.png"
+  },
+  {
+    "name": "Darya Mohammadi",
+    "role": "Secretary",
+    "group": "Executive Board",
+    "bio": "Manages internal communications and organizational records.",
+    "image": "assets/images/mini-logo.png"
+  },
+  {
+    "name": "Reza Karimi",
+    "role": "Director of Events",
+    "group": "Board",
+    "bio": "Coordinates event calendars and student engagement initiatives.",
+    "image": "assets/images/mini-logo.png"
+  },
+  {
+    "name": "Parisa Vaziri",
+    "role": "Director of Outreach",
+    "group": "Board",
+    "bio": "Develops collaborations with student groups and campus partners.",
+    "image": "assets/images/mini-logo.png"
+  }
+]
